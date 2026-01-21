@@ -1,10 +1,9 @@
 ### Hi there, I'm Kyuhyeon "David" Cho 👋
 
-I am a Master's student at **Arizona State University** specializing in Artificial Intelligence in Business.
+I am a Master's student at **Arizona State University**, specializing in Artificial Intelligence in Business.
 
-- 🔭 I’m currently working on **Leap Road AI** (Knowledge Transfer Platform)
-- 📊 I built **MatureIQ** to assess agile maturity.
-- 🌱 I’m currently learning **Advanced Clustering & Protein Resolution Models**.
+- 🔭 I’m currently building AI Agents for Higher Ed using Salesforce Agentforce (Capstone with IntraEdge).
+- 🌱 I’m currently researching Autonomous AI Agent Deployment & Scalability.
 
 #### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
